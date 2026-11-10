@@ -1,2 +1,2 @@
 # c-programming-practicals
-C programming practicals for B.Sc. Computer Science
+C programming practicals for 1st semester B.Sc. Computer Science
